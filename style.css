@@ -1,0 +1,28 @@
+body
+   {
+      background-image:url(images/bg.jpg);
+      min-height: 100vh;
+      background-size: cover;
+   }
+.carousel-inner
+    {
+       margin: 2px;
+    }
+.trigger
+    {
+      margin-left: 550px;
+      margin-top: 300px;
+    }
+.modal-footer > .btn
+    {
+      color: rgb(255, 255, 255);
+    }
+.modal-footer > .btn > a
+    {
+      text-decoration: none;
+      color: aliceblue;
+    }
+.modal-body
+    {
+      background-color: beige;
+    }
